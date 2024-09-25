@@ -31,3 +31,9 @@ This project is a Machine Learning model designed to predict the price of used c
 ## Usage
 
 Enter car details in the web app to get a predicted price instantly.
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/7e1f15fb-ff3a-4f8b-b849-3d6290998861)
+
+
